@@ -7,6 +7,6 @@ Hints:
 
 * You can open an interactive lisp console in emacs by typing M-x ielm. Nothing compares to a console when you're learning a language :-).
 
-* In Emacs you can run(let the computer interpret) your expression by moving the cursor at the expression's end and typing C-x C-e (HOlding down CTLR and then pressing x and e). The result will appear in your bottom buffer.
+* In Emacs you can run(let the computer interpret) your expression by moving the cursor at the expression's end and typing C-x C-e (Holding down CTLR and then pressing x and e). The result will appear in your bottom buffer.
 
 * When you ever get stuck on a debugger error, q is the key to break free.
