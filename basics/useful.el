@@ -31,3 +31,7 @@ fill-column
 ; messages
 (message "Hello user")
 (buffer-name)
+(buffer-file-name)
+
+; inserting characters, strange how it works, the number is repetition
+(self-insert-command 1)
